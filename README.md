@@ -25,4 +25,4 @@ RUN \
      touch ~/.Xauthority ;
 ```
 
-## Prebuilt container: [gcr.io/horatio-project/test:1.0](gcr.io/horatio-project/test:1.0)
+## Prebuilt container: [gcr.io/horatio-project/test:1.0](https://gcr.io/horatio-project/test:1.0)
